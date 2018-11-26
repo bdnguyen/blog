@@ -2,15 +2,15 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = 'Daniel B.D. Nguyen'
-SITENAME = 'Daniel B.D. Nguyen'
+AUTHOR = u'Daniel B.D. Nguyen'
+SITENAME = u"Daniel's Hideout"
 SITEURL = ''
 
 PATH = 'content'
 
 TIMEZONE = 'Europe/Paris'
 
-DEFAULT_LANG = 'en'
+DEFAULT_LANG = u'en'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
